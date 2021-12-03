@@ -1,1 +1,1 @@
-
+print("multiply")
