@@ -1,1 +1,2 @@
-print("subtract")
+def subtract():
+    print("subtract")
