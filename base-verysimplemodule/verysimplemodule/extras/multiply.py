@@ -1,2 +1,2 @@
-def multiply();
+def multiply():
     print("multiply")
