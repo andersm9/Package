@@ -1,1 +1,2 @@
-print("multiply")
+def multiply();
+    print("multiply")
