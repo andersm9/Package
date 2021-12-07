@@ -1,2 +1,2 @@
-from add import add
-from subtract import subtract
+from verysimplemodule.add import add
+from verysimplemodule.subtract import subtract
