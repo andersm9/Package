@@ -1,4 +1,4 @@
-class ComplexSums(number):
+class ComplexSums():
     
     def __init__(self):
         print("Class instansiation")
