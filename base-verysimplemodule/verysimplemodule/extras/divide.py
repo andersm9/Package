@@ -1,1 +1,2 @@
-print("divide")
+def divide();
+    print("divide")
