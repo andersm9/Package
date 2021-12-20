@@ -1,11 +1,10 @@
-class ComplexSums(a,b):
+class ComplexSums:
     
     def __init__(self):
         print("Class instansiation")
         
     def squareRoot():
-        print("squareRoot of a = ")
-        print(a)
-
+        print("squareRoot")
+       
 def add(a,b):
     print(a + b)
