@@ -5,7 +5,7 @@ class ComplexSums:
         self.a = a
         
     def square(self):
-        print(a**2)
+        print(self.a**2)
        
 def add(a,b):
     print(a + b)
