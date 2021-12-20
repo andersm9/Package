@@ -1,6 +1,6 @@
 class ComplexSums:
     
-    def __init__(self):
+    def __init__(self, a, b):
         print("Class instansiation")
         
     def squareRoot():
