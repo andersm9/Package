@@ -8,7 +8,7 @@ class ComplexSums:
         
     def square(self):
         print(self.a**2)
-        print(pi)
+        print(self.pi)
        
 def add(a,b):
     print(a + b)
