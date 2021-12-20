@@ -6,5 +6,6 @@ class ComplexSums():
     def squareRoot():
         print("squareRoot")
 
-def add():
-    print("add")
+def add(a,b):
+    print(a)
+    print(b)
