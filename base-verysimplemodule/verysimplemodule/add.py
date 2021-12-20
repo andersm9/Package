@@ -5,7 +5,7 @@ class ComplexSums:
         self.a = a
         self.b = b
         
-    def squareRoot():
+    def squareRoot(self):
         print("squareRoot")
        
 def add(a,b):
