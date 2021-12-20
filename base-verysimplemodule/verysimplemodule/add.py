@@ -1,12 +1,11 @@
 class ComplexSums:
     
-    def __init__(self, a, b):
+    def __init__(self, a):
         print("Class instansiation")
         self.a = a
-        self.b = b
         
-    def squareRoot(self):
-        print("squareRoot")
+    def square(self):
+        print(a**2)
        
 def add(a,b):
     print(a + b)
