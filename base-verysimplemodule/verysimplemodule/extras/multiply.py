@@ -1,2 +1,2 @@
-def multiply():
-    print("multiply")
+def multiply(a,b):
+    print(a*b)
