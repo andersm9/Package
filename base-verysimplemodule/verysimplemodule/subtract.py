@@ -1,2 +1,2 @@
-def subtract():
-    print("subtract")
+def subtract(a,b):
+    print(a-b)
