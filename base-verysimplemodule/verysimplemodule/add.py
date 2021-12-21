@@ -6,7 +6,7 @@ class ComplexSums:
         print("Class instansiation")
         self.a = a
         
-    def square(self):
+    def Square(self):
         print(self.a**2)
         print(self.pi)
        
