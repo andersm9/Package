@@ -10,5 +10,5 @@ class ComplexSums:
         print(self.a**2)
         print(self.pi)
        
-def add(a,b):
+def Add(a,b):
     print(a + b)
