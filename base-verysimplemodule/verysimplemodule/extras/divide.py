@@ -1,2 +1,2 @@
-def divide(a,b):
+def Divide(a,b):
     print(a/b)
