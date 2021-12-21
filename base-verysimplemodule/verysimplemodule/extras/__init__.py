@@ -1,2 +1,2 @@
-from verysimplemodule.extras.divide import divide
-from verysimplemodule.extras.multiply import multiply
+from verysimplemodule.extras.divide import Divide
+from verysimplemodule.extras.multiply import Multiply
